@@ -56,8 +56,8 @@ The application follows a modern full-stack architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ot-cybersecurity-maturity-tool
+   git clone [<repository-url>](https://github.com/gloomyleo/CyberOT.git)
+   cd CyberOT
    ```
 
 2. **Set up the Python environment**
