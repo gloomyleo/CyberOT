@@ -27,6 +27,14 @@ This tool is designed around established cybersecurity frameworks:
 - **NIST Cybersecurity Framework**: Comprehensive framework for managing cybersecurity risks
 - **Zero Trust Architecture**: Implementation guidance for Zero Trust principles in OT environments
 
+### Preview
+
+![Dashboard](assets/dashboard_screenshot.png)
+![Configuration Tracker](assets/configurations_screenshot.png)
+![Asset Tracker](assets/assets_screenshot.png)
+![Vulnerabiltiies Tracker](assets/assessments_screenshot.png)
+
+
 ## Architecture
 
 The application follows a modern full-stack architecture:
