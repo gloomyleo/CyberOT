@@ -56,7 +56,7 @@ The application follows a modern full-stack architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/gloomyleo/CyberOT.git)
+   git clone [CyberOT>](https://github.com/gloomyleo/CyberOT.git)
    cd CyberOT
    ```
 
@@ -267,8 +267,8 @@ python src/main.py
 
 1. **Using Docker** (recommended)
    ```bash
-   docker build -t ot-security-tool .
-   docker run -p 5000:5000 ot-security-tool
+   docker build -t CyberOT .
+   docker run -p 5000:5000 CyberOT
    ```
 
 2. **Using WSGI Server**
