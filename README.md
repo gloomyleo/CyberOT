@@ -342,8 +342,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions, issues, or feature requests, please contact:
 
 **Moazzam Jafri**  
-Cybersecurity Professional  
-25+ Years Industry Experience
+Cybersecurity Leader
 
 ## Acknowledgments
 
